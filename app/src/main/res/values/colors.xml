@@ -6,5 +6,7 @@
     <color name="main_text_bg">#84c0c5</color>
     <color name="main_text_color">#ffffff</color>
     <color name="white">#FFFFFF</color>
+    <color name="colorItem">#fcc31e</color>
+    <color name="colorItemDark">#daa10c</color>
 
 </resources>
